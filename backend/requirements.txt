@@ -1,0 +1,4 @@
+# Django dependencies
+Django==4.2.1
+ djangorestframework==3.14.0
+ pymongo==4.3.3
